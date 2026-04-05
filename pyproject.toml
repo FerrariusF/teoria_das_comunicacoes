@@ -1,5 +1,5 @@
 [project]
-name = "01-apresentacao-curso-e-conceitos-fundamentais"
+name = "teoria_das_comunicacoes"
 version = "0.1.0"
 requires-python = ">=3.10"
 dependencies = [
