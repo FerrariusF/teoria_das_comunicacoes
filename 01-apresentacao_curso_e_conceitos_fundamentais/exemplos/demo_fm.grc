@@ -320,7 +320,8 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: hino_paysandu.wav
+    file: "C:\\Users\\gabri\\Downloads\\Bach Pr\xE9lude, Cello suite Nr1 Oph\xE9lie\
+      \ Gaillard.mp4"
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
