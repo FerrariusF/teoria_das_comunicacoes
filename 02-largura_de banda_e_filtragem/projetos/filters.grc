@@ -244,7 +244,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: C:\Users\gabri\Downloads\The-Phantom-of-the-Opera-Prague-Cello-Quartet-_Official-video_.wav
+    file: /home/cleversonahum/Documents/teoria_das_comunicacoes/02-largura_de banda_e_filtragem/projects/Bach.wav
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
@@ -385,7 +385,7 @@ blocks:
   id: qtgui_sink_x
   parameters:
     affinity: ''
-    alias: ''
+    alias: test
     bw: samp_rate
     comment: ''
     fc: '0'
